@@ -3,14 +3,14 @@ thelocalpit@github
 ----------------------------
 OS:           OSX / LINUX
 Location:     Roma, RM
-// Frameworks:   Flutter, QT, React, Angular,
-//               NestJS, Node
 Languages:    C, CPP, JavaScript, HTML, CSS
 IDE:          Vim, VSCode
 Technologies: Linux, Nginx, SSH, Git, Docker
 ```
 
 <!--
+Frameworks:   Flutter, QT, React, Angular,
+               NestJS, Node
 **thelocalpit/thelocalpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
