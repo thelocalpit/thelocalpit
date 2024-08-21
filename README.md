@@ -7,7 +7,6 @@ Languages:    C, CPP, JavaScript, HTML, CSS
 IDE:          Vim, VSCode
 Technologies: Linux, Nginx, SSH, Git, Docker
 ```
-
 <!--
 Frameworks:   Flutter, QT, React, Angular,
                NestJS, Node
