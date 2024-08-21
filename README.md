@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/thelocalpit/thelocalpit/blob/main/images/thelocalpit.png?raw=true" width="400" height="175" /> 
+
 
 ```csharp
 thelocalpit@github
