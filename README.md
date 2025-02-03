@@ -10,7 +10,8 @@ IDE:          Vim, VSCode
 Technologies: Linux, Nginx, SSH, Git, Docker
 ```
 
-- 🖥 I’m currently student at 42Roma Luiss
+- 🖥 42Roma Luiss
+- Front-end Developer freelance
 - 📫 Reach me -> falaschip@gmail.com
 
 
@@ -32,5 +33,6 @@ Technologies: Linux, Nginx, SSH, Git, Docker
  <br>CPP Module 09 - 100 ✅ </br>
  <br>Inception - 100 ✅ </br>
  <br>Webserv - 110 ✅ </br>
+ <br>Trascendence - 100 ✅ </br>
 </div>
 
