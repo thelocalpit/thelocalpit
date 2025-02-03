@@ -4,7 +4,7 @@
 thelocalpit@github
 ----------------------------
 OS:           OSX / LINUX
-Location:     Roma, RM
+Location:     Prato, Italy
 Languages:    C, CPP, JavaScript, HTML, CSS, React
 IDE:          Vim, VSCode
 Technologies: Linux, Nginx, SSH, Git, Docker
